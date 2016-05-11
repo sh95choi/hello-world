@@ -1,2 +1,2 @@
 # hello-world
-time-honored tradition project
+time-honored project
